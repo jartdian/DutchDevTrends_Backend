@@ -282,7 +282,7 @@ const citiesLangData = {
     "Haarlem": {
       "coordinates": [
         52.3874,
-        4.9024
+        4.6424
       ],
       "data": {
         "javascript": 653,
